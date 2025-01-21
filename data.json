@@ -1,0 +1,59 @@
+{
+  "summary": "Results-driven professional with a Bachelor’s degree in Engineering, specializing in Information Science. Seeking a challenging role to utilize my skills, contribute to organizational success, and advance my career. Committed to delivering accuracy, reliability, and innovative solutions in a collaborative environment.",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (Information Science)",
+        "institution": "Channabasaveshwara Institute of Technology, Gubbi, Karnataka",
+        "year": "June 2025"
+      },
+      {
+        "degree": "Pre-University (PCMB)",
+        "institution": "Seshadripuram PU College",
+        "year": "2021"
+      },
+      {
+        "degree": "SSLC",
+        "institution": "Ankita Primary and High School",
+        "year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "title": "IoT Operations Intern",
+        "duration": "7th Semester, Industrial Internship",
+        "description": "Worked on real-time datasets, data analysis, visualization, and prediction. Classified ICCC data use cases and generated KPI reports."
+      },
+      {
+        "title": "Intern",
+        "duration": "3rd & 5th Semester",
+        "description": "Analyzed datasets, implemented automated data processes, and improved existing processes for optimized execution."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Petrol Pump Management System",
+        "description": "Full-stack web design with PHP and MySQL for managing employee and gas station records."
+      },
+      {
+        "title": "Diet Recommendation System",
+        "description": "Machine learning-based system recommending food based on user symptoms using Python, HTML, and CSS."
+      },
+      {
+        "title": "Automation Testing of E-Commerce Website",
+        "description": "Developed automation scripts for testing an e-commerce website."
+      },
+      {
+        "title": "Noise Dataset Analysis",
+        "description": "Visualized noise data trends, conducted predictive analysis, and built KPI reports."
+      }
+    ],
+    "skills": [
+      "Data Analysis",
+      "Data Visualization",
+      "Python Programming",
+      "Machine Learning",
+      "HTML, CSS, JavaScript",
+      "SQL"
+    ]
+  }
+  
